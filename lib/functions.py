@@ -24,9 +24,3 @@ def halve(number):
     return halved
 
 
-greet_programmer()
-greet("Alice")
-greet_with_default()
-add(55, 108)
-halve(10)
-
